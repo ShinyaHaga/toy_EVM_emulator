@@ -1,6 +1,4 @@
-package parser
-
-import "fmt"
+package main
 
 func parse(bytecode []byte) [20][]byte {
 	x := [20][]byte{}
@@ -16,8 +14,4 @@ func parse(bytecode []byte) [20][]byte {
 	}
 
 	return x
-}
-
-func main() {
-	fmt.Println(parse([]byte{0x11, 0x12, 0x32, 0x34, 0x56, 0x11, 0x32, 0x56}))
 }
