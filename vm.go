@@ -81,6 +81,7 @@ func (b *EVM) pop() uint256.Int {
 func (b *EVM) exec(contract Account) bool {
 	opcode := b.env.code[b.pc]
 	b.pc++
+	fmt.Println("------------------------------------")
 
 	switch opcode {
 	//0x00~: 算術命令
