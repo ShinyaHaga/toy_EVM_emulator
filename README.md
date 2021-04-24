@@ -45,4 +45,4 @@ push => stack: [[00 00 00 00] [01 00 00 00]]
 ・EVMによるスマートコントラクトの実行
 
 # 参考文献
-https://github.com/pokemium/ToyEVM <-かなりの部分を参考にさせていただきました、ありがとうございました。
+https://github.com/pokemium/ToyEVM <-かなりの部分を参考にさせています、ありがとうございました。
