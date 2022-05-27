@@ -2,8 +2,8 @@
 (this is EVM emulator for my study)
 
 # 概要
-自分が学習用に作成している(現在進行形)Ethereum Virtual Machine Emulatorです。
-ゆえにバグが大量にあり、他人に見せられない酷いコードですが、就活のために公開することにしました！
+自分が学習用に作成している(現在休止中)Ethereum Virtual Machine Emulatorです。
+ゆえにバグが大量にあり、他人に見せられない酷いコードです....
 コードが動かないことが多いですが、何卒ご容赦ください。
 
 # 使い方
